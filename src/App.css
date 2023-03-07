@@ -1,0 +1,28 @@
+.item{
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 2rem;
+  align-items: center;
+  
+}
+.item-body{
+  padding-top: 5rem !important;
+  margin: auto;
+  /* height: 15em; */
+  width: 25em;
+  align-items: center !important;
+  background-color: rgb(140, 222, 224);
+  border-radius: 1ch;
+  padding: 2em !important;
+}
+
+.button-block{
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.input-block{
+  justify-content: space-evenly;
+  padding: 2em ;
+}
